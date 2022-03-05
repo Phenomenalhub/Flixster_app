@@ -28,6 +28,7 @@ Flix Part 2
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
 Submitted by: Emmanuel Onung
 
 Time spent: 5 hours spent in total
