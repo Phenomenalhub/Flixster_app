@@ -21,7 +21,7 @@ Flix Part 2
 
 ### App Walkthough GIF
 
-<img src="https://recordit.co/S7afBNyXpx.gif" width=250><br>
+<img src="https://recordit.co/PvGcM74Lxm.gif" width=250><br>
 
 
 
